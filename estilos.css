@@ -104,6 +104,9 @@ p{
     border-radius: 10px;
 
 }
+.Productos img:hover {
+    transform: scale(1.2);
+}
 .Palitos{
     width: 90%;
     margin: auto;
